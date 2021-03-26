@@ -1,7 +1,9 @@
 # Machine-Learning-Techniques-for-Spetral-Analysis-of-Water-Nutrient
 
 C.FEi, X.Cao, et.al, "Machine learning techniques for real-time UV-Vis spectral analysis to monitor dissolved nutrients in surface water" in SPIE Photonic West, San Francisco, California, 2021. 
+
 https://doi.org/10.1117/12.2577050.
+
 Paper published in SPIE Photonic West 2021, Proceedings Volume 11703, AI and Optical Data Sciences II; 117031D (2021) 
 
 Summary: 
